@@ -1,1 +1,2 @@
 Hello world from second file
+Change in second file from editor
